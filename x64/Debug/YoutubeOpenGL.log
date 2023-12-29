@@ -1,0 +1,10 @@
+﻿D:\apps\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (YoutubeOpenGL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Camera.cpp
+  EBO.cpp
+  Mesh.cpp
+D:\Graphics\lab3_1\Mesh.cpp(69,43): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Model.cpp
+D:\Graphics\lab3_1\Model.cpp(248,91): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+D:\Graphics\lab3_1\Model.cpp(256,93): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+  Generating Code...
+  YoutubeOpenGL.vcxproj -> D:\Graphics\lab3_1\x64\Debug\lab3_1.exe
